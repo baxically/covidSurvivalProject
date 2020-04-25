@@ -1,0 +1,258 @@
+patientID,gender,age,death,recovered,symptom
+1,male,35,0,1,fever
+2,male,45,0,0,
+3,female,35,0,0,
+4,male,45,0,0,
+5,male,45,0,0,fever
+6,male,65,0,0,"cough, chills, joint pain"
+7,female,45,0,0,"fever, cough"
+8,female,45,0,0,"fever, cough"
+9,male,55,0,0,"throat pain, fever"
+10,male,55,0,0,fever
+11,female,35,0,0,"fever, cough"
+12,female,25,0,0,fever
+13,female,25,0,0,
+14,male,45,0,0,
+15,male,45,0,0,"fever, cough"
+16,male,35,0,0,
+17,female,35,0,0,"fever, runny nose"
+18,female,55,0,0,"fever, cough"
+19,male,55,0,0,fever
+20,male,45,0,0,
+21,male,25,0,0,fever
+22,male,55,0,0,
+23,male,25,0,0,
+24,male,45,0,0,fever
+25,male,55,0,0,"fever, cough"
+26,NA,NA,0,0,
+27,female,85,1,0,fatigue
+28,male,75,0,0,fever
+29,male,55,0,0,"fever, abdominal pain, diarrhea"
+30,male,25,0,0,"fever, cough"
+31,male,75,1,0,"cold, fever, pneumonia"
+32,female,65,0,0,"cough, joint pain"
+33,female,55,0,0,"vomiting, diarrhea, fever, cough"
+34,male,75,0,0,"fever, loss of appetite"
+35,male,65,0,0,fever
+36,male,55,0,0,"fever, cough, malaise"
+37,male,35,0,0,fever
+38,male,55,0,0,fever
+39,female,55,0,0,"fever, cough"
+40,male,65,0,0,"fever, headache"
+41,female,65,0,0,
+42,female,65,0,0,
+43,male,45,0,0,
+44,male,65,0,0,"fatigue, difficulty breathing"
+45,male,35,0,0,"fever, malaise"
+46,male,65,0,0,fever
+47,male,65,0,0,"fever, malaise"
+48,male,65,0,0,"fever, malaise"
+49,female,85,0,0,
+50,female,55,0,0,
+51,male,55,0,0,fever
+52,male,55,0,0,fever
+53,female,45,0,0,"fever, vomiting, diarrhea"
+54,male,65,0,0,fever
+55,male,35,0,0,fever
+56,male,85,1,0,"fever, pneumonia"
+57,male,25,0,0,fever
+58,male,55,0,0,"fever, cough, sputum, malaise"
+59,male,65,0,0,
+60,male,85,0,0,
+61,male,75,0,0,"fever, cough"
+62,male,65,0,0,fever
+63,male,45,0,0,"fatigue, muscle pain, joint pain, fever"
+64,male,65,0,0,"fever, sore throat"
+65,male,65,0,0,"fever, breathlessness, malaise"
+66,male,75,0,0,"cough, malaise, shortness of breath"
+67,female,75,0,0,"cough, malaise, shortness of breath"
+68,female,75,0,0,"cough, sputum, dyspnea"
+69,female,55,0,0,"fever, malaise"
+70,male,55,0,0,
+71,male,65,0,0,"fever, pneumonia"
+72,male,45,0,0,
+73,female,75,0,0,fever
+74,male,85,0,0,"fever, malaise, diarrhea, cough"
+75,NA,NA,0,0,
+76,NA,NA,0,0,
+77,male,85,0,0,fever
+78,male,85,0,0,fever
+79,female,65,0,0,
+80,male,5,0,1,fever
+81,male,15,0,1,
+82,female,45,0,1,fever
+83,male,55,0,1,fever
+84,NA,5,0,1,
+85,female,55,0,1,"fever, cough, sputum"
+86,female,75,0,1,"fever, cough, malaise"
+87,female,55,0,1,fatigue
+88,male,65,0,1,"fatigue, loss of appetite"
+89,male,85,0,1,
+90,male,75,0,1,"fever, cough"
+91,female,25,0,1,"fever, cough, breathlessness"
+92,female,25,0,0,"cough, fever, headache, nausea, vomiting, diarrhea"
+93,male,55,0,0,"cough, fever"
+94,male,65,0,0,"fatigue, cold, fever, vomiting"
+95,male,45,0,0,"fever, fatigue, cough, diarrhea"
+96,female,65,0,0,nausea
+97,female,55,0,0,"fatigue, joint pain, fever"
+98,female,75,0,0,"cough, sputum"
+99,male,85,1,0,difficulty breathing
+100,male,75,0,0,"fever, cough, malaise"
+101,female,55,0,0,
+102,male,65,0,0,fever
+103,female,55,0,0,"fatigue, malaise, headache"
+104,female,15,0,0,"fever, sore throat, malaise"
+105,female,55,0,0,"sore throat, cough, fever"
+106,male,65,0,0,"fever, cough"
+107,female,65,0,0,"fever, nasal discharge, headache"
+108,female,46,0,0,fever
+109,male,65,0,0,"fever, cough, malaise"
+110,male,65,0,0,fever
+111,female,65,0,0,fever
+112,male,55,0,0,fever
+113,male,55,0,0,"fever, difficulty breathing"
+114,male,75,0,0,
+115,female,75,0,0,fever
+116,male,75,0,0,"fever, cough"
+117,male,45,0,0,"joint pain, muscle pain, cough, malaise"
+118,male,35,0,0,
+119,female,65,0,0,
+120,male,25,0,0,
+121,male,75,0,0,
+122,female,35,0,0,
+123,male,85,0,0,
+124,female,45,0,0,
+125,female,25,0,0,
+126,female,55,0,0,
+127,male,55,0,0,"fever, headache"
+128,male,65,0,0,"fever, sore throat"
+129,female,75,0,0,"fever, cough"
+130,male,55,0,0,chills
+131,female,25,0,0,fever
+132,male,55,0,0,cough
+133,male,55,0,0,"fever, respiratory distress"
+134,male,45,0,0,"fever, malaise"
+135,male,55,0,0,"fever, malaise"
+136,male,35,0,0,"fever, sore throat"
+137,female,55,0,0,"mild cough, sputum, throat discomfort"
+138,female,25,0,0,"cough, sneeze"
+139,female,25,0,0,"fever, chills, joint pain, heavy head"
+140,male,65,0,0,"fatigue, fever"
+141,male,55,0,0,sore throat
+142,female,65,0,0,fever
+143,female,65,0,0,fever
+144,female,55,0,0,
+145,female,75,0,0,fever
+146,female,75,0,0,"fever, cough"
+147,female,45,0,0,"fever, runny nose"
+148,male,55,0,0,fever
+149,male,65,0,0,fever
+150,male,75,0,0,fever
+151,male,25,0,0,"headache, fever, malaise"
+152,female,25,0,0,"sore throat, fever"
+153,male,75,0,0,fever
+154,NA,NA,1,0,cough
+155,female,75,0,0,"fever, malaise"
+156,female,75,0,0,"fever, cough"
+157,male,45,0,0,"fever, cough"
+158,male,65,0,0,"fever, cough, malaise"
+159,female,45,0,0,"throat discomfort, cough, chest pain"
+160,male,85,0,0,"fever, cough, sputum, dyspnea"
+161,male,75,0,0,"fever, cough, sputum, dyspnea"
+162,male,75,0,0,"fever, cough, sputum"
+163,male,55,0,0,"fever, thirst"
+164,male,65,0,0,fever
+165,male,75,0,0,"fever, cough, runny nose"
+166,male,75,0,0,"fever, cough, malaise"
+167,female,75,0,0,"fever, cough, sore throat, runny nose"
+168,male,55,0,0,"malaise, fever, headache"
+169,female,55,0,0,"throat pain, chills"
+170,male,55,0,0,fever
+171,male,55,0,0,"fever, headache, malaise"
+172,female,60,0,0,"fever, cough, sputum"
+173,male,45,0,0,"fever, cough, headache"
+174,male,55,0,0,
+175,male,55,0,0,"cough, malaise"
+176,male,35,0,0,fever
+177,male,75,0,0,"fatigue, fever"
+178,male,65,0,0,"sore throat, fever, joint pain, dyspnea"
+179,male,45,0,0,"vomiting, cough, fever, sore throat"
+180,male,45,0,0,fever
+181,male,5,0,0,"fever, cough"
+182,male,35,0,0,"fever, headache, malaise, joint pain"
+183,male,5,0,0,"fever, cough"
+184,male,85,0,0,"fever, cough"
+185,male,35,0,0,"cough, fever, joint pain"
+186,male,85,0,0,"cough, fever"
+187,male,65,0,0,"fever, malaise, sore throat"
+188,female,45,0,0,"cough, sore throat"
+189,female,65,0,0,fever
+190,male,65,0,0,"fever, cough, headache"
+191,NA,NA,0,0,
+192,female,45,0,0,"chills, headache, fatigue"
+193,male,25,0,0,fever
+194,male,65,0,0,
+195,female,85,0,0,"cough, sputum"
+196,male,5,0,0,fever
+197,male,85,0,0,"fever, fatigue, difficulty walking"
+198,female,65,0,0,cough
+199,male,65,0,0,fever
+200,male,65,0,0,"chills, fever, malaise"
+201,female,65,0,0,"sputum, cough, fever, cough, difficulty breathing"
+202,male,45,0,0,fever
+203,male,75,0,0,fever
+204,female,65,0,0,
+205,male,65,0,0,"fever, cough"
+206,male,65,0,0,fever
+207,male,65,0,0,fever
+208,female,45,0,0,"headache, fever"
+209,female,35,0,0,"sore throat, fever, cough, runny nose"
+210,male,65,0,0,"fever, cough, malaise, loss of appetite"
+211,male,75,0,0,"fever, sore throat"
+212,female,25,0,0,"fever, cough"
+213,female,95,0,0,"cough, nasal discharge, fever, difficulty breathing"
+214,female,65,0,0,"cough, general malaise, joint muscle pain"
+215,female,35,0,0,"fever, headache, malaise"
+216,female,25,0,0,
+217,female,75,0,0,"fever, cough, vomiting, hospitalization"
+218,male,65,0,0,"cough, fever"
+219,female,75,0,0,"fever, pneumonia"
+220,female,55,0,0,"headache, fever, cough"
+221,male,25,0,0,"fever, diarrhea, nausea, difficulty breathing, coughing, loss of appetite"
+222,female,25,0,0,"fever, cough, malaise"
+223,male,45,0,0,fever
+224,female,55,0,0,cough
+225,male,75,0,0,"fever, difficulty breathing "
+226,male,55,0,0,"malaise, fever, joint pain"
+227,female,55,0,0,"malaise, fever, joint pain, sputum, vomiting, diarrhea"
+228,female,65,0,0,"cough, malaise, fatigue"
+229,female,85,0,0,"pneumonia, fever"
+230,female,55,0,0,"pneumonia, fever"
+231,female,65,0,0,"fever, whole body pain, pneumonia"
+232,male,45,0,0,fever
+233,female,35,0,0,"fever, cough"
+234,male,45,0,0,fever
+235,male,65,0,0,"fever, difficulty breathing "
+236,male,65,0,0,"fever, fatigue, diarrhea"
+237,male,55,0,0,"fever, runny nose, sore throat, malaise, joint pain"
+238,female,45,0,0,"fatigue, fever, joint pain, pneumonia"
+239,male,55,0,0,"fatigue, fever"
+240,male,55,0,0,fever
+241,female,45,0,0,"fever, cough, throat discomfort"
+242,female,35,0,0,"fever, headache, malaise"
+243,male,45,0,0,"fever, malaise, pneumonia"
+244,female,35,0,0,"fever, headache, cough"
+245,female,65,0,0,"difficulty breathing, fever"
+246,female,65,0,0,"chills, cough, fever"
+247,female,55,0,0,fever
+248,male,45,0,0,fever
+249,female,55,0,0,fever
+250,female,55,0,0,"fever, cough"
+251,male,55,0,0,"fever, pneumonia"
+252,female,45,0,0,"back pain, fever, runny nose"
+253,female,75,0,0,"fever, cold"
+254,male,85,0,0,fever
+255,female,25,0,0,"fever, cough, sore throat, pneumonia"
+256,male,75,0,0,"fever, cough, runny nose"
+257,male,45,0,0,
