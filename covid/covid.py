@@ -23,11 +23,11 @@ df.gender.value_counts(normalize=True).plot(kind="bar", alpha=0.5)
 plt.title("gender")
 
 #idk why i can't get this graph to work
-"""plt.subplot2grid((2,3), (1,0), colspan=2)
-for x in [1, 2]:
-    df.age[df.recovered == x].plot(kind="kde")
+plt.subplot2grid((2,3), (1,0), colspan=2)
+for x in ["male", "female"]:
+    df.age[df.gender == x].plot(kind="kde")
 plt.title("gender with respect to age")
-plt.legend(("male", "female"))"""
+plt.legend(("male", "female"))
 
 #figure out how to break out symptoms
 
