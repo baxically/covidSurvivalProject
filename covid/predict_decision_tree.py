@@ -32,3 +32,9 @@ print(scores)
 print(scores.mean())
 
 tree.export_graphviz(generalized_tree_, feature_names=feature_names, out_file="tree.dot")
+
+gender = input("Enter your sex (male or female): ")
+age = input("Enter your age: ")
+userFeatures = [gender, age]
+
+generalized_tree_.predict(userFeatures)
