@@ -9,7 +9,6 @@ patientID,gender,age,death,recovered,symptom
 188,female,45,0,0,"cough, sore throat"
 189,female,65,0,0,fever
 190,male,65,0,0,"fever, cough, headache"
-191,NA,NA,0,0,
 192,female,45,0,0,"chills, headache, fatigue"
 193,male,25,0,0,fever
 194,male,65,0,0,
@@ -86,7 +85,6 @@ patientID,gender,age,death,recovered,symptom
 188,female,45,0,0,"cough, sore throat"
 189,female,65,0,0,fever
 190,male,65,0,0,"fever, cough, headache"
-191,NA,NA,0,0,
 192,female,45,0,0,"chills, headache, fatigue"
 193,male,25,0,0,fever
 194,male,65,0,0,

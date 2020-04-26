@@ -24,7 +24,6 @@ patientID,gender,age,death,recovered,symptom
 23,male,25,0,0,
 24,male,45,0,0,fever
 25,male,55,0,0,"fever, cough"
-26,NA,NA,0,0,
 27,female,85,1,0,fatigue
 28,male,75,0,0,fever
 29,male,55,0,0,"fever, abdominal pain, diarrhea"
@@ -73,8 +72,6 @@ patientID,gender,age,death,recovered,symptom
 72,male,45,0,0,
 73,female,75,0,0,fever
 74,male,85,0,0,"fever, malaise, diarrhea, cough"
-75,NA,NA,0,0,
-76,NA,NA,0,0,
 77,male,85,0,0,fever
 78,male,85,0,0,fever
 79,female,65,0,0,
@@ -82,7 +79,6 @@ patientID,gender,age,death,recovered,symptom
 81,male,15,0,1,
 82,female,45,0,1,fever
 83,male,55,0,1,fever
-84,NA,5,0,1,
 85,female,55,0,1,"fever, cough, sputum"
 86,female,75,0,1,"fever, cough, malaise"
 87,female,55,0,1,fatigue
@@ -152,7 +148,6 @@ patientID,gender,age,death,recovered,symptom
 151,male,25,0,0,"headache, fever, malaise"
 152,female,25,0,0,"sore throat, fever"
 153,male,75,0,0,fever
-154,NA,NA,1,0,cough
 155,female,75,0,0,"fever, malaise"
 156,female,75,0,0,"fever, cough"
 157,male,45,0,0,"fever, cough"
